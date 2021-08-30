@@ -1,2 +1,3 @@
 # Python_Data Analysis
-Data Analysis with Python Mini Project
+주피터 노트북으로 데이터 분석하는 미니 프로젝트들 모음
+💁‍♀️근데 이제 여기에 내 혼자 복습하기 위한 이론을 곁들인,,
